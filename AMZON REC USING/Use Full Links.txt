@@ -1,0 +1,22 @@
+For Installing Boto3:
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html
+
+For Installing Pillow:This example uses the PIL/Pillow image library to get the image width and height.
+
+https://pillow.readthedocs.io/en/3.0.x/installation.html
+
+Configuring AWS CLI consol
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+
+Creating Administrator account
+https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html
+
+Installing AWS CLI
+https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html
+
+
+
+
+
+
+
